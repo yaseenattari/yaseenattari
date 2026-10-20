@@ -21,5 +21,5 @@ Excel VBA → Google Apps Script web apps → full PHP/MySQL business portals
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/in/muhammad-yaseen-attari-a79018179
+- LinkedIn: [Muhammad Yaseen Attari](https://www.linkedin.com/in/muhammad-yaseen-attari-a79018179)
 - Business: K2Y Solution
